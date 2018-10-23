@@ -11,7 +11,6 @@ This will depend on whether samples are being run on the client or the cloud ser
 * Client: install the current Azure Information Protection add-in (https://aka.ms/aipclient)
 * Cloud: depending on the samples run you will either need the PowerShell cmdlets installed with the client (refer to Additional resources for details) or
 see Connecting to Exchange Online PowerShell (https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
-* Using the Microsoft Graph APIs to configure Intune controls and policies requires an Intune license.
 * An account with permissions to administer the AIP and optionally O365 Service's
 * PowerShell v5.0 on Windows 10 x64 (PowerShell v4.0 is a minimum requirement for the scripts to function correctly)
 
