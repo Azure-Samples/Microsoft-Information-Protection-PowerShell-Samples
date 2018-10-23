@@ -7,10 +7,6 @@ Checkout the Changelog to see what samples are currently avaialble.
 The scripts are licensed "as-is." under the MIT License.
 
 <p align="center">
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-</p>
-
-<p align="center">
   <a href="#Prerequisites">Prerequisites</a> •
   <a href="#Getting-Started">Getting Started</a> •
   <a href="#1.-Script-usage">Script usage</a> •
