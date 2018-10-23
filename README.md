@@ -6,15 +6,6 @@ Checkout the Changelog to see what samples are currently avaialble.
 
 The scripts are licensed "as-is." under the MIT License.
 
-<p align="center">
-  <a href="#Prerequisites">Prerequisites</a> •
-  <a href="#Getting-Started">Getting Started</a> •
-  <a href="#1.-Script-usage">Script usage</a> •
-  <a href="#Questions-and-comments">Questions and comments</a> •
-  <a href="#Additional-Resources">Additional Resources</a> •
-  <a href="#Copyright">Copyright</a>
-</p>
-
 ## Prerequisites
 This will depend on whether samples are being run on the client or the cloud services (AzureIP or O365):
 * Client: install the current Azure Information Protection add-in (https://aka.ms/aipclient)
