@@ -35,7 +35,7 @@ Get-Label | Format-Table -Property DisplayName, Name, Guid
   $JustifyLabelIds="75a9204-0ef6-4581-8c9e-69242aefe755" # Confidential label Id
   $BlockLabelIds="c279640a-a77f-4948-82e6-9efeb1774a4c" # Highly Confidential label Id
 
-  Multiple labels can be provided by comma seperating the Guids. See the documentation for advanced properties for more information:
+  Multiple labels can be provided by comma seperating the Guids. See the documentation for advanced settings for more information:
   https://docs.microsoft.com/en-us/azure/information-protection/rms-client/clientv2-admin-guide-customizations#how-to-configure-advanced-settings-for-the-client-by-using-office-365-security--compliance-center-powershell
 #>
 
