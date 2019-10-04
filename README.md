@@ -1,3 +1,14 @@
+---
+page_type: sample
+languages:
+- powershell
+products:
+- azure
+description: "This repository contains PowerShell snippets to demonstrate Azure Information Protection (AIP) functionality when interacting with the wider Microsoft cloud platform."
+urlFragment: Azure-Information-Protection-PowerShell-Samples
+---
+
+
 # Azure Information Protection Samples
 
 This repository contains PowerShell snippets to demonstrate Azure Information Protection (AIP) functionality when interacting with the wider Microsoft cloud platform.
