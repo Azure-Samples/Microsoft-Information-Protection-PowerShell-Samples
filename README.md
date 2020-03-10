@@ -61,7 +61,6 @@ Your feedback is important to us. Connect with us on Stack Overflow. Tag your qu
 * [Office 365 Security & Compliance Center PowerShell](https://docs.microsoft.com/en-gb/powershell/exchange/office-365-scc/office-365-scc-powershell?view=exchange-ps)
 * [Microsoft Information Protection Blog](https://aka.ms/MIPblog)
 * [Microsoft Information Protection Forum](https://aka.ms/askMIPteam)
-* [Azure Information Protection Product Feedback](https://aka.ms/MIPuservoice)
 
 ## Copyright
 Copyright (c) 2020 Microsoft. All rights reserved.
