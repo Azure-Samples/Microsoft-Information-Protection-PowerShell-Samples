@@ -5,7 +5,6 @@ languages:
 products:
 - azure
 description: "This repository contains PowerShell snippets to demonstrate Microsoft Information Protection (MIP) functionality when interacting with the wider Microsoft cloud platform."
-urlFragment: Microsoft-Information-Protection-PowerShell-Samples
 ---
 
 
