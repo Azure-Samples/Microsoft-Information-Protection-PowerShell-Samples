@@ -27,9 +27,9 @@ see Connecting to Exchange Online PowerShell (https://docs.microsoft.com/en-us/p
 ## Getting Started
 After the prerequisites are installed or met, perform the following steps to use these scripts:
 
-#### Script usage
+#### Script Usage
 
-1. Download the contents of the repository to your local Windows machine
+  * Download the contents of the repository to your local Windows machine
   * Extract the files to a local folder (e.g. C:\Microsoft-Information-Protection-Samples)
   * Run PowerShell x64 from the start menu
   * Browse to the directory (e.g. cd C:\Microsoft-Information-Protection-Samples)
@@ -37,14 +37,14 @@ After the prerequisites are installed or met, perform the following steps to use
   * Most the scripts require authentication first. Auth examples can be found in the Authentication folder.
   * Example Authentication script usage:
     * To connect to the Exchange Online PowerShell use the script from C:\Microsoft-Information-Protection-Samples, run "cd .\Authentication\"
-    * Once in the folder run .\Authentictae to EXO.ps1 and select whether this needs to be via Exchange Online Protection (EOP)
+    * Once in the folder run .\Authenticate to EXO.ps1 and select whether this needs to be via Exchange Online Protection (EOP)
     This sequence of steps can be used for each folder....
 
 #### Disclaimer
 
 Some script samples retrieve information from your O365 tenant, and others may create, delete or update data in these tenants.  Understand the impact of each sample script prior to running it; samples should be run using a non-production or "test" tenant. 
 
-## Questions and comments
+## Questions and Comments
 
 We're always interested in feedback. If you have any comments to share about the PowerShell samples you can send your questions and suggestions to us in the Issues section of this repository.
 
@@ -62,6 +62,6 @@ Your feedback is important to us. Connect with us on Stack Overflow. Tag your qu
 * [Microsoft Information Protection Forum](https://aka.ms/askMIPteam)
 
 ## Copyright
-Copyright (c) 2020 Microsoft. All rights reserved.
+Copyright (c) 2022 Microsoft. All rights reserved.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
