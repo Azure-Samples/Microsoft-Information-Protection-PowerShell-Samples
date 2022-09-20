@@ -7,13 +7,16 @@ See LICENSE in the project root for license information.
 #>
 
 <#
-Notes:  Commands supporting the video tutorial - https://aka.ms/AIPOutlookPopup
-        Additional details in the online documentation - 
+Notes:     Additional details in the online documentation - 
             https://docs.microsoft.com/en-us/azure/information-protection/rms-client/client-admin-guide-customizations#implement-pop-up-messages-in-outlook-that-warn-justify-or-block-emails-being-sent
 
 #>
 
 # Step 1 - Authenticate to SCC FIRST.
+# https://learn.microsoft.com/en-us/powershell/exchange/connect-to-scc-powershell?view=exchange-ps
+
+Connect-IPPSSession 
+
 
 # Step 2 - Define our trusted domains and Policy the settings will be applied to
 $PolicyName = "General"
